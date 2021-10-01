@@ -1,5 +1,5 @@
 ### [Website](https://samcode.tech) &emsp;&emsp; [Linkedin](https://www.linkedin.com/in/soumyakanta-pattanaik-49838a195/) &emsp;&emsp; [YouTube](https://www.youtube.com/channel/UCKzgQTwFBrb3fU8L3CMeNzw)
-![enter image description here](https://media-exp3.licdn.com/dms/image/C5616AQE4_5V0mvtI5Q/profile-displaybackgroundimage-shrink_350_1400/0/1620894521706?e=1629331200&v=beta&t=SPZx3fZyDbcqwzNDnf3z51urapK8hqP3O4nCXBAhwGE)
+![enter image description here](https://drive.google.com/file/d/1wksQJMJkvL8mZpf-g9ELBE3bB1CRnoRV/view?usp=sharing)
 
 <!--
 **sam1code/sam1code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
