@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-60%25-3C823B" />
   <img src="https://img.shields.io/badge/Express.js-50%25-EFD81C" />
   <img src="https://img.shields.io/badge/Django-40%25-092D1F" />
-    <img src="https://img.shields.io/badge/Flutter-40%25-0A90B7" />
+    <img src="https://img.shields.io/badge/ReactNative-40%25-0A90B7" />
 </code>
 <details>
 <summary> <b>📊 Some GitHub stats </b></summary>
