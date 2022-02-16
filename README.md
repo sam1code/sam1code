@@ -8,11 +8,14 @@ Here are some ideas to get you started:
 -->
 <h2>Languages that I know</h2>
 <code>
-<img src="https://img.shields.io/badge/-%20C%20-blue" /> <img src="https://img.shields.io/badge/-%20C%2B%2B-%238F00FF" />
-<img src="https://img.shields.io/badge/-Java-FFCC00" />
-<img src="https://img.shields.io/badge/-JavaScript-%239B2900" />
-<img src="https://img.shields.io/badge/-Python-blueviolet" />
-<img src="https://img.shields.io/badge/-Dart-success" /> <img src="https://img.shields.io/badge/-GO-003399" /></code>
+  <img src="https://img.shields.io/badge/-Java-FFCC00" />
+  <img src="https://img.shields.io/badge/-JavaScript-%239B2900" />
+  <img src="https://img.shields.io/badge/-TypeScript-success" />
+  <img src="https://img.shields.io/badge/-GO-003399" />
+  <img src="https://img.shields.io/badge/-Python-blueviolet" />
+  <img src="https://img.shields.io/badge/-%20C%20-blue" /> 
+  <img src="https://img.shields.io/badge/-%20C%2B%2B-%238F00FF" />
+</code>
 <h2>Skills</h2>
 <code>
 <img src="https://img.shields.io/badge/HTML-80%25-brightgreen" />
