@@ -1,4 +1,4 @@
-### [Website](https://samcode.tech) &emsp;&emsp; [Linkedin](https://www.linkedin.com/in/soumyakanta-pattanaik-49838a195/) &emsp;&emsp;
+### [Website](https://samcode.me) &emsp;&emsp; [Linkedin](https://www.linkedin.com/in/soumyakanta-pattanaik-49838a195/) &emsp;&emsp;
 ![enter image description here](https://raw.githubusercontent.com/sam1code/profile/master/profile.png)
 
 <!--
