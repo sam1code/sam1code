@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<!-- <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/> -->
 
 </div>
 
@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+Ask me anything <a href="https://github.com/sam1code/sam1code/issues/new"><b>here</b></a><br>
+or <a href="mailto:samcse95@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
@@ -65,7 +65,6 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ---
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me around the web:</i><br>
 
@@ -75,11 +74,11 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
   <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
-<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
+<a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> -->
 
 </div>
 
@@ -90,17 +89,13 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on CloudRocks | Open Source
+- 🌱 I’m currently learning value of infinity
+- 👯 I’m looking to collaborate on js(node,react(gatsby,nextjs etc),reactNative),go,devops projects
+- 🤔 I’m looking for help with Your best...
+- 💬 Ask me about your doubt
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/soumyakanta-pattanaik-49838a195/) &emsp;&emsp;
+- 😄 Pronouns: HE
+- ⚡ Fun fact: jumping like a frog 
 -->
 
------
-Credits: [ABSphreak](https://github.com/ABSphreak)
-
-Last Edited on: 30/08/2020
