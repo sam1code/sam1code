@@ -72,7 +72,6 @@
 - 💻 **Full-Stack Development & Cloud-Native Solutions**  
 - 🏗 **Software Architecture & Scalable Systems Design**  
 - 🤖 **NLP, Computer Vision & Image Analysis**  
-- 🌐 **Extended Reality (XR/VR/AR)**  
 - 🎓 Currently pursuing **M.Sc. in Computer Science for Digital Media** at Bauhaus-Universität Weimar  
 
 Passionate about building scalable software systems, designing modern architectures, and exploring cutting-edge technologies.  
