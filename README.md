@@ -111,28 +111,9 @@ Cloud & DevOps           → Docker, Kubernetes, CI/CD, cloud deployment
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sam1code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam1code&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 <img height="180" src="https://streak-stats.demolab.com?user=sam1code&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sam1code&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 ## 🌍 Connect With Me
 
