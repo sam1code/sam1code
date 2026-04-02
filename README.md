@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sam1code/profile/master/profile.png" width="100%" alt="Profile Banner" />
-
 # Soumyakanta Pattanaik 👋
 
 ### Full-Stack Engineer • Software Architect • RAG, Computer Vision & DevOps
