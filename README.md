@@ -2,14 +2,14 @@
 
 # Soumyakanta Pattanaik 👋
 
-### Full-Stack Engineer • Software Architect • RAG, Computer Vision & DevOps
+### Full Stack Engineer — Go, TypeScript, Cloud-Native Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Systems;Designing+Modern+Software+Architectures;Developing+AI-Powered+Applications;RAG+Pipelines+%7C+Computer+Vision+%7C+Cloud+DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Backend+Systems;Full-Stack+Engineering+with+Go+%26+TypeScript;Shipping+Production+Cloud-Native+Apps;Docker+%7C+Kubernetes+%7C+AWS+%7C+GCP" />
 
 <p>
   <a href="https://soumyak.dev"><img src="https://img.shields.io/badge/Portfolio-soumyak.dev-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:hi@soumyak.dev"><img src="https://img.shields.io/badge/Email-hi@soumyak.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sam1code/"><img src="https://img.shields.io/badge/LinkedIn-sam1code-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samcse95/"><img src="https://img.shields.io/badge/LinkedIn-samcse95-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/sam1code"><img src="https://img.shields.io/badge/GitHub-sam1code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -19,22 +19,22 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack Engineer and Software Architect** passionate about building **scalable web applications**, **modern backend systems**, and **production-ready cloud infrastructure**.
+I'm a **Full Stack Engineer** with **2+ years** of experience building **scalable backend systems**, **production web applications**, and **cloud-native services**.
 
-Alongside strong full-stack engineering, I also work on **AI-powered systems**, especially in **RAG pipelines**, **LLM applications**, and **Computer Vision**.
+I work mostly in **Go** and **TypeScript**, with **React** and **Next.js** on the frontend, and I'm comfortable owning services end-to-end — from APIs and databases to Docker, Kubernetes, and the cloud.
 
-Currently, I am pursuing my **M.Sc. in Computer Science for Digital Media** at **Bauhaus-Universität Weimar**.
+Currently pursuing my **M.Sc. in Computer Science for Digital Media** at **Bauhaus-Universität Weimar**, Germany.
 
 ---
 
 ## 🧠 Core Focus
 
 ```text
-Full-Stack Engineering   → Web apps, APIs, backend systems, product development
-Software Architecture    → Scalable, modular, maintainable production systems
-AI Systems               → RAG pipelines, LLM applications, intelligent workflows
-Computer Vision          → Image analysis, CV pipelines, deep learning systems
-Cloud & DevOps           → Docker, Kubernetes, CI/CD, cloud deployment
+Backend Engineering    → Go, Node.js, REST APIs, gRPC, WebSockets
+Full-Stack Development → React, Next.js, end-to-end product delivery
+Distributed Systems    → Kafka, RabbitMQ, event-driven architectures
+Cloud & DevOps         → Docker, Kubernetes, AWS, GCP, CI/CD
+Databases              → PostgreSQL, Redis, MongoDB
 ```
 
 ---
@@ -43,52 +43,46 @@ Cloud & DevOps           → Docker, Kubernetes, CI/CD, cloud deployment
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python" />
 </p>
 
-### 🧩 Frontend & App Development
+### 🧩 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 ### 🔧 Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
 </p>
 
-### 🤖 AI / Applied Intelligence
-<p>
-  <img src="https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Applications-1C1C1C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-6C5CE7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Image_Analysis-E67E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-</p>
-
-### ☁️ Cloud, DevOps & Infrastructure
+### ☁️ Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux" />
+</p>
+
+### 📨 Distributed Systems
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 ---
 
 ## 🔥 What I Build
 
-- ⚡ **Scalable full-stack web applications**
-- 🏗 **Robust backend architectures and APIs**
-- 🤖 **AI-enhanced products using RAG and LLM workflows**
-- 👁 **Computer vision and image analysis systems**
-- ☁️ **Cloud-native deployments with DevOps best practices**
+- ⚡ **Scalable backend services** in Go and Node.js
+- 🌐 **Full-stack web apps** with React and Next.js
+- 📨 **Event-driven systems** with Kafka and message queues
+- ☁️ **Cloud-native deployments** on AWS and GCP
+- 🐳 **Containerized infrastructure** with Docker and Kubernetes
 
 ---
 
@@ -96,12 +90,11 @@ Cloud & DevOps           → Docker, Kubernetes, CI/CD, cloud deployment
 
 | Area | Focus |
 |------|-------|
-| **Frontend Engineering** | React, Next.js, UI architecture, responsive product development |
-| **Backend Engineering** | Node.js, Express, APIs, scalable service design |
-| **Software Architecture** | Clean architecture, modular systems, maintainable engineering |
-| **AI Systems** | RAG, retrieval pipelines, LLM-based applications |
-| **Computer Vision** | Image analysis, deep learning workflows, CV pipelines |
-| **Cloud & DevOps** | Docker, Kubernetes, CI/CD, cloud deployment |
+| **Backend Engineering** | Go, Node.js, REST APIs, gRPC, WebSockets |
+| **Frontend Engineering** | React, Next.js, responsive web apps |
+| **Distributed Systems** | Kafka, RabbitMQ, event-driven architectures |
+| **Databases** | PostgreSQL, Redis, MongoDB |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS, GCP, CI/CD pipelines |
 
 ---
 
@@ -110,8 +103,11 @@ Cloud & DevOps           → Docker, Kubernetes, CI/CD, cloud deployment
 <div align="center">
 
 <img height="180" src="https://streak-stats.demolab.com?user=sam1code&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sam1code&theme=tokyonight&hide_border=true&show_icons=true" />
 
 </div>
+
+---
 
 ## 🌍 Connect With Me
 
@@ -119,19 +115,15 @@ Cloud & DevOps           → Docker, Kubernetes, CI/CD, cloud deployment
 
 <a href="https://soumyak.dev">🌐 Portfolio</a> •
 <a href="mailto:hi@soumyak.dev">📫 Email</a> •
-<a href="https://www.linkedin.com/in/sam1code/">💼 LinkedIn</a> •
+<a href="https://www.linkedin.com/in/samcse95/">💼 LinkedIn</a> •
 <a href="https://github.com/sam1code">🐙 GitHub</a>
 
 </div>
 
 ---
 
-## ⚡ Philosophy
-
 <div align="center">
 
-### Build scalable systems.  
-### Design clean architectures.  
-### Ship meaningful products. 🚀
+### Build scalable systems. Ship meaningful products. 🚀
 
 </div>
